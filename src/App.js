@@ -28,7 +28,8 @@ export default class App extends Component<Props> {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "black"
+    backgroundColor: "black",
+    marginTop: 300
   },
   videoContainer: {
     height: 250,
